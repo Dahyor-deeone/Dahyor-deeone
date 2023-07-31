@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oyeniyi Oromidayo
-- 👀 I’m interested in data science and analytics using python
-- 🌱 I’m currently learning SQL(Standard Query Language)
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I’m interested in data science and analytics using Python, Tableau, and Spreadsheet packages
+- 🌱 I’m currently learning Alteryx
+- 💞️ I’m looking to collaborate on data science/analytics projects
 - 📫 How to reach me? Get in touch at dahyor.oyeniyi@gmail.com 
 
 <!---
